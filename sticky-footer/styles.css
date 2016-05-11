@@ -9,4 +9,9 @@ html {
     width: 100%;
 	background-color: gray;
 	color: #fff;
+	clear: both;
+	position: sticky;
+	position: fixed;
+  bottom: 0;
+  right: 0;
 }

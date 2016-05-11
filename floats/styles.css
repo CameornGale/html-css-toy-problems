@@ -13,3 +13,15 @@ h1, p {
   padding: 24px 15px;
   text-align: center;
 }
+
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
+
+.footer {
+  clear: both;
+}
